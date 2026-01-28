@@ -1,0 +1,10 @@
+Repository: micro-Introduction-to-Git-and-GitHub
+
+git branch -a
+
+* main
+  bug-fix-typo
+  bug-fix-revert
+  remotes/origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/bug-fix-revert
